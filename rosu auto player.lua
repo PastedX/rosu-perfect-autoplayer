@@ -1,6 +1,4 @@
-game.Players.LocalPlayer:Kick("patched")
-wait(9e9)
----@diagnostic disable: redundant-parameter
+
 local settings = {
     autoplayer = false,
     playing = false,
